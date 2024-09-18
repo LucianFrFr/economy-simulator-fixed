@@ -1,3 +1,5 @@
+I will most likly update the read-me soon but anyways here are the org instructions :)
+
 1. setup ubuntu and redis
 
 go to powershell as administrator, then do ```wsl --install``` if you get erorrs enable "Windows Subsystem For Linux" and "Windows Virtual Machine" in the windows features.
